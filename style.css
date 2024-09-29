@@ -17,11 +17,12 @@ body{
     padding-top: 200px;
 }
 
-.main-container{
+.main-contianer{
     margin-top: 100px;
     padding: 50px;
     border: solid 2px rgb(203, 83, 123);
     border-radius: 10px;
+    transition: height 300ms ease-in;
 }
 
 .first-contianer{
